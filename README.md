@@ -6,6 +6,7 @@
 ## 2. Selenium
 
 You can install selenium using Python Package manager.
+
 command: pip istall selenium
 
 
